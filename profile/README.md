@@ -11,6 +11,8 @@
 
 
 ## Project artifacts:
+  - [SWYL's system designs and architecture](https://github.com/SWYLy/materials)
+
   - [Solidity Smart Contracts](https://github.com/SWYLy/contracts)
   
   - Golang/MongoDB server - comming soon....
