@@ -1,24 +1,10 @@
-# ***SWYL***
+<p align="center">
+<br />
+<h1 align="center">SWYL - Support Who You Love</h1>
+<h5>Work in progress...</h5>
+</p>
 
-Support Who You Love - a web 3.0 platform that helps musicians and artists connect to their fanbase and either get supports through donations (tips) or sell their music as NFTs. 
+## Overview
+`Support Who You Love` (***SWYL***) - a full-stack web 3.0 music donation/NFT marketplace platform powered on top of the [Polygon network](https://polygon.technology/matic-token/) that helps musicians connect to their fanbase with ease! ****SWYL**** provides an e-playground where artists can show off their artworks in the form of Non-fungible tokens ([***NFTs***](https://ethereum.org/en/nft/)) and the fans can enjoy listening to them then either tip the artists or offer to buy the music NFTs from the artists.
 
-(#web3.0, #ethereum, #solidity, #smart-contract, #oppenzeppelin, #ERC-721, #ERC-1155, #IPFS, #nextjs, #tailwindcss)
-
-## Moore's Vision statement
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;****SWYL**** is a web-based music donation/NFT marketplace platform that is compatible with mobile devices THAT provides artists and their fans an e-performance where artists can show off their artworks and the fans can enjoy them then either tip the artists or offer to buy the digital copies of the artworks in form of NFTs. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;****SWYL**** is powered on top of the Ethereum blockchain (or any other L2 blockchain networks) which means the artists can copyright their music for free, automatically receive donations from fans, be able to sell limited-edition versions of their music in form of NFTs and instantly receive royalty rewards every time their digital copies go on sale again in future. Also, blockchain technology will make all the transactions, ownerships and copyrights are transparent and immutable on the blockchain network.
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+***SWYL*** offers musicians an easy way to copyright their music for free by turning their music into `NFTs` and immutably store them on the blockchain. Fans now can donate their favorite musicians from anywhere on Earth within seconds without involving in any frustrating currency conversion procedure. All the transactions related to buying and selling NFTs happen on `SWYL Marketplace` are transparently and clearly recorded on the [Polygon blockchain](https://polygon.technology/matic-token/). Finally, artists can also instantly receive royalty rewards every time their `music NFTs` go on sale again in future. Everything is made possible thanks to the blockchain technology!
