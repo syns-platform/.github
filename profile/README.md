@@ -15,6 +15,6 @@
 
   - [Smart Contracts](https://github.com/SWYLy/contracts)
   
-  - Server - comming soon....
+  - [Server](https://github.com/SWYLy/servers)
   
   - Client app - comming soon...
