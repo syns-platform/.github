@@ -14,8 +14,8 @@
 ## Project artifacts:
   - [System designs and architecture](https://github.com/SWYLy/materials)
 
-  - [Smart Contracts](https://github.com/SWYLy/contracts)
+  - [Solidity Smart Contracts](https://github.com/SWYLy/contracts)
   
-  - [Server](https://github.com/SWYLy/servers)
+  - [Golang Restful Microservices](https://github.com/SWYLy/servers)
   
-  - Client app - comming soon...
+  - NextJs Client app - comming soon...
