@@ -6,9 +6,9 @@
 </p>
 
 ## Overview
-`Support Who You Love` (***SWYL***) - is a full-stack web 3.0 platform that combines a music-donation system, NFT marketplace, club membership, and social media features, all built on top of the Polygon network. The platform allows musicians to connect with their fans and share their artworks in the form of non-fungible tokens (****NFTs****). Fans can listen to the music and either tip the artists or purchase the music NFTs.
+`Support Who You Love` (***SWYL***) - is a full-stack web 3.0 platform that combines a music-donation system, NFT marketplace, club membership, and social media features, all built on top of the [Polygon network](https://polygon.technology/matic-token/). The platform allows musicians to connect with their fans and share their artworks in the form of non-fungible tokens (****NFTs****). Fans can listen to the music and either tip the artists or purchase the music NFTs.
 
-***SWYL*** offers musicians an easy way to copyright their music for free by turning their music into `NFTs` and immutably store them on the blockchain. Fans now can donate their favorite musicians from anywhere on Earth within seconds without involving in any frustrating currency conversion procedure. All the transactions related to buying and selling NFTs happen on `SWYL Marketplace` are transparently and clearly recorded on the [Polygon blockchain](https://polygon.technology/matic-token/). Finally, artists can also instantly receive royalty rewards every time their `music NFTs` go on sale again in future. Everything is made possible thanks to the [blockchain technology](https://en.wikipedia.org/wiki/Blockchain)
+***SWYL*** offers musicians a way to copyright their music for free by turning it into `NFTs` and immutably storing them on the blockchain. This allows fans to easily donate to their favorite musicians from anywhere in the world without having to worry about currency conversions. All transactions on the `SWYL Marketplace`, including the buying and selling of NFTs, are transparently recorded on the [Polygon blockchain](https://polygon.technology/matic-token/). Additionally, artists can receive royalty rewards every time their music NFTs are sold in the future. All of this is made possible by the use of blockchain technology.
 
 
 ## Project artifacts:
