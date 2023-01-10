@@ -18,4 +18,4 @@
   
   - [Golang Restful Microservices](https://github.com/SWYLy/servers)
   
-  - NextJs Client app - comming soon... (status: 910+ commits)
+  - NextJs Client app - comming soon... (status: 950+ commits && almost ready to launch)
