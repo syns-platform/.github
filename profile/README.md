@@ -2,7 +2,7 @@
 <br />
 <a href="https://github.com/SWYLy"><img src="https://github.com/SWYLy/materials/blob/master/logo.svg?raw=true" width="100" alt=""/></a>
 <h1 align="center">SWYL - Support Who You Love</h1>
-<h4> 🏵️ Currently open for beta testing at https://swyl.vercel.app</h4>
+<h4> 🏵️ The platform is currently open for beta testing at https://swyl.vercel.app</h4>
 </p>
 
 ## Overview
