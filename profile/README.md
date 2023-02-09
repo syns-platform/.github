@@ -1,8 +1,8 @@
 <p align="center">
 <br />
-<a href="https://github.com/SWYLy"><img src="https://github.com/SWYLy/materials/blob/master/logo.svg?raw=true" width="100" alt=""/></a>
+<a href="https://github.com/syns-platform"><img src="https://github.com/syns-platform/materials/blob/master/logo.svg?raw=true" width="100" alt=""/></a>
 <h1 align="center">SYNS - Spark Your Noble Story</h1>
-<h4 align="center"> 🏵️ The platform is currently open for beta testing at https://swyl.vercel.app</h4>
+<h4 align="center"> 🏵️ The platform is currently open for beta testing at https://syns.vercel.app</h4>
 </p>
 
 ## Overview
