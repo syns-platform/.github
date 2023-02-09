@@ -11,10 +11,10 @@
 ***SYNS*** offers musicians a way to copyright their music for free by turning it into `NFTs` and immutably storing them on the blockchain. This allows fans to easily donate to their favorite musicians from anywhere in the world without having to worry about currency conversions. All transactions on the `SYNS Marketplace`, including the buying and selling of NFTs, are transparently recorded on the [Polygon blockchain](https://polygon.technology/matic-token/). Additionally, artists can receive royalty rewards every time their music NFTs are sold in the future. All of this is made possible by the use of blockchain technology.
 
 ## Project artifacts:
-  - [System designs and architecture](https://github.com/syns-platofrm/materials)
+  - [System designs and architecture](https://github.com/syns-platform/materials)
 
-  - [Solidity Smart Contracts](https://github.com/syns-platofrm/contracts)
+  - [Solidity Smart Contracts](https://github.com/syns-platform/contracts)
   
-  - [Golang Restful Microservices](https://github.com/syns-platofrm/servers)
+  - [Golang Restful Microservices](https://github.com/syns-platform/servers)
   
-  - [NextJs Client app](https://github.com/syns-platofrm/client)
+  - [NextJs Client app](https://github.com/syns-platform/client)
