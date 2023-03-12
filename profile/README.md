@@ -13,7 +13,7 @@
 
 By leveraging blockchain technology, ***Syns*** offers a level of security, efficiency, and transparency that is unmatched in the music industry, providing musicians with a powerful tool to connect with their fans and monetize their art. 
 
-Join SYNS today and leverage the power of blockchain technology to spark your own noble story!
+Join Syns Platform today and leverage the power of blockchain technology to spark your own noble story!
 
 
 ## Project artifacts:
