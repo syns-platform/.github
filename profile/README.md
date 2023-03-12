@@ -7,9 +7,12 @@
 </p>
 
 ## Overview
-`Spark Your Noble Story` (***Syns***) - is a full-stack web 3.0 platform that combines a music-donation system, NFT marketplace, club membership, and social media features, all built on top of the [Polygon network](https://polygon.technology/matic-token/). The platform allows musicians to connect with their fans and share their artworks in the form of non-fungible tokens (****NFTs****). Fans can listen to the music and either tip the artists or purchase the music NFTs.
+`Spark Your Noble Story` (***Syns***) - a cutting-edge full-stack web 3.0 platform that is revolutionizing the way musicians connect with their fans. Built on top of the Polygon network, SYNS combines a music-donation system, NFT marketplace, club membership, and social media features, offering musicians an unparalleled opportunity to showcase their artistry and connect with their fans worldwide.
 
-***SYNS*** offers musicians a way to copyright their music for free by turning it into `NFTs` and immutably storing them on the blockchain. This allows fans to easily donate to their favorite musicians from anywhere in the world without having to worry about currency conversions. All transactions on the `SYNS Marketplace`, including the buying and selling of NFTs, are transparently recorded on the [Polygon blockchain](https://polygon.technology/matic-token/). Additionally, artists can receive royalty rewards every time their music NFTs are sold in the future. All of this is made possible by the use of blockchain technology.
+***Syns*** is a groundbreaking platform that empowers musicians to protect and monetize their music. With SYNS, musicians can copyright their music for free by converting it into NFTs and storing it securely on the blockchain, granting them complete transparency and control over their creations. Fans can now effortlessly support their favorite artists from anywhere in the world, thanks to the platform's cryptocurrency features, eliminating the need for complicated currency conversions. Every transaction is recorded transparently on the Polygon blockchain, ensuring maximum security and visibility for all parties involved. Additionally, artists can earn royalty rewards whenever their music NFTs are sold in the future, creating a sustainable source of income for their music.
+
+By leveraging blockchain technology, ***Syns*** offers a level of security, efficiency, and transparency that is unmatched in the music industry, providing musicians with a powerful tool to connect with their fans and monetize their art. Join SYNS today and leverage the power of blockchain technology to spark your own noble story!
+
 
 ## Project artifacts:
   - [System designs and architecture](https://github.com/syns-platform/materials)
