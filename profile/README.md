@@ -11,7 +11,9 @@
 
 ***Syns*** is a groundbreaking platform that empowers musicians to protect and monetize their music. With SYNS, musicians can copyright their music for free by converting it into NFTs and storing it securely on the blockchain, granting them complete transparency and control over their creations. Fans can now effortlessly support their favorite artists from anywhere in the world, thanks to the platform's cryptocurrency features, eliminating the need for complicated currency conversions. Every transaction is recorded transparently on the Polygon blockchain, ensuring maximum security and visibility for all parties involved. Additionally, artists can earn royalty rewards whenever their music NFTs are sold in the future, creating a sustainable source of income for their music.
 
-By leveraging blockchain technology, ***Syns*** offers a level of security, efficiency, and transparency that is unmatched in the music industry, providing musicians with a powerful tool to connect with their fans and monetize their art. Join SYNS today and leverage the power of blockchain technology to spark your own noble story!
+By leveraging blockchain technology, ***Syns*** offers a level of security, efficiency, and transparency that is unmatched in the music industry, providing musicians with a powerful tool to connect with their fans and monetize their art. 
+
+Join SYNS today and leverage the power of blockchain technology to spark your own noble story!
 
 
 ## Project artifacts:
