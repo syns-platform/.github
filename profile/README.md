@@ -6,6 +6,19 @@
 <h5 align="center"> 🪜 Work In Progress...</h5>
 </p>
 
+<div align="center"> 
+
+![](https://img.shields.io/badge/React.js-18.2.0-blue?style=flat-square&logo=react)
+![](https://img.shields.io/badge/Next.js-13.1.2-blue?style=flat-square&logo=next.js)
+![](https://img.shields.io/badge/TypeScript-4.8.4-blue?style=flat-square&logo=typescript)
+![](https://img.shields.io/badge/Tailwindcss-3.2.2-blue?style=flat-square&logo=tailwindcss)
+
+![](https://img.shields.io/badge/Golang-1.9.0-blue?style=flat-square&logo=go)
+![](https://img.shields.io/badge/MongoDB-6.0.0-blue?style=flat-square&logo=mongodb)
+![](https://img.shields.io/badge/Solidity-0.8.11-blue?style=flat-square&logo=solidity)
+
+</div>
+
 ## Overview
 `Spark Your Noble Story` (***Syns***) - a cutting-edge full-stack web 3.0 platform that is revolutionizing the way musicians connect with their fans. Built on top of the Polygon network, SYNS combines a music-donation system, NFT marketplace, club membership, and social media features, offering musicians an unparalleled opportunity to showcase their artistry and connect with their fans worldwide.
 
