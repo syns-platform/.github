@@ -11,11 +11,14 @@
 ![](https://img.shields.io/badge/React.js-18.2.0-blue?style=flat-square&logo=react)
 ![](https://img.shields.io/badge/Next.js-13.1.2-blue?style=flat-square&logo=next.js)
 ![](https://img.shields.io/badge/TypeScript-4.8.4-blue?style=flat-square&logo=typescript)
-![](https://img.shields.io/badge/Tailwindcss-3.2.2-blue?style=flat-square&logo=tailwindcss)
-
+![](https://img.shields.io/badge/Tailwindcss-3.2.2-blue?style=flat-square&logo=tailwindcss) <br />
+![](https://img.shields.io/badge/Solidity-0.8.11-blue?style=flat-square&logo=solidity)
+![](https://img.shields.io/badge/OpenZeppelin-4.8.0-blue?style=flat-square&logo=openzeppelin)
+![](https://img.shields.io/badge/Hardhat-2.12.7-blue?style=flat-square&logo=hardhat)
+![](https://img.shields.io/badge/Ethers-5.4.7-blue?style=flat-square&logo=ethersjs)
+![](https://img.shields.io/badge/Mocha-9.1.0-blue?style=flat-square&logo=mocha)<br />
 ![](https://img.shields.io/badge/Golang-1.9.0-blue?style=flat-square&logo=go)
 ![](https://img.shields.io/badge/MongoDB-6.0.0-blue?style=flat-square&logo=mongodb)
-![](https://img.shields.io/badge/Solidity-0.8.11-blue?style=flat-square&logo=solidity)
 
 </div>
 
