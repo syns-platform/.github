@@ -1,6 +1,6 @@
 <p align="center">
 <br />
-<a href="https://github.com/syns-platform"><img src="https://github.com/syns-platform/materials/blob/master/logo.svg?raw=true" width="100" alt=""/></a>
+<a href="https://github.com/syns-platform"><img src="https://github.com/syns-platform/materials/blob/master/Syns_Official_Logo_V2.png?raw=true" width="150" alt=""/></a>
 <h1 align="center">Syns - Spark Your Noble Story</h1>
 <h4 align="center"> 🏵️ The platform is currently open for beta testing at https://syns.vercel.app</h4>
 <h5 align="center"> 🪜 Work In Progress...</h5>
