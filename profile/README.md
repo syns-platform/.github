@@ -23,7 +23,7 @@
 </div>
 
 ## Overview
-`Spark Your Noble Story` (***Syns***) - a cutting-edge full-stack web 3.0 platform that is revolutionizing the way musicians connect with their fans. Built on top of the Polygon network, SYNS combines a music-donation system, NFT marketplace, club membership, and social media features, offering musicians an unparalleled opportunity to showcase their artistry and connect with their fans worldwide.
+`Spark Your Noble Story` (***Syns***) - a cutting-edge full-stack web 3.0 platform that is revolutionizing the way musicians connect with their fans. Leveraging blockchain technology, SYNS combines a music-donation system, NFT marketplace, club membership, and social media features, offering musicians an unparalleled opportunity to showcase their artistry and connect with their fans worldwide.
 
 ***Syns*** is a groundbreaking platform that empowers musicians to protect and monetize their music. With SYNS, musicians can copyright their music for free by converting it into NFTs and storing it securely on the blockchain, granting them complete transparency and control over their creations. Fans can now effortlessly support their favorite artists from anywhere in the world, thanks to the platform's cryptocurrency features, eliminating the need for complicated currency conversions. Every transaction is recorded transparently on the Polygon blockchain, ensuring maximum security and visibility for all parties involved. Additionally, artists can earn royalty rewards whenever their music NFTs are sold in the future, creating a sustainable source of income for their music.
 
