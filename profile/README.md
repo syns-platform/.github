@@ -32,6 +32,7 @@ By leveraging blockchain technology, ***Syns*** offers a level of security, effi
 Join Syns Platform today and leverage the power of blockchain technology to spark your own noble story!
 
 
+<!--
 ## Project artifacts:
   - [System designs and architecture](https://github.com/syns-platform/materials)
 
@@ -40,3 +41,4 @@ Join Syns Platform today and leverage the power of blockchain technology to spar
   - [Golang Restful Microservices](https://github.com/syns-platform/servers)
   
   - [NextJs Client app](https://github.com/syns-platform/client)
+-->
