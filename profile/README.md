@@ -38,6 +38,13 @@ You can access our beta version at https://syns-platform.com and provide your in
 
 We greatly appreciate your insights and suggestions as we strive to further develop and refine this project. Thank you for your understanding and continued support!
 
+## Follow us on socials
+  - [syns_platform@twitter](https://twitter.com/syns_platform)
+  
+  - [syns_platform@linkedin](https://www.linkedin.com/company/syns-platform/)
+  
+  - [syns_platform@instagram](https://www.instagram.com/syns_platform/)
+
 <!--
 ## Project artifacts:
   - [System designs and architecture](https://github.com/syns-platform/materials)
