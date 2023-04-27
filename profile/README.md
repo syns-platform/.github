@@ -31,21 +31,16 @@ By leveraging blockchain technology, ***Syns Platform*** offers a level of secur
 
 Join Syns Platform today and leverage the power of blockchain technology to spark your own noble story!
 
+<!--
+
 ## Notice
 This project has now been made private to protect sensitive information and mitigate potential liability issues. However, we are still eager to receive your feedback on our progress!
 
 You can access our beta version at https://syns-platform.com and provide your input through our dedicated feedback portal on the platform with ease.
 
 We greatly appreciate your insights and suggestions as we strive to further develop and refine this project. Thank you for your understanding and continued support!
+-->
 
-## Follow us on socials
-  - [syns_platform@twitter](https://twitter.com/syns_platform)
-  
-  - [syns_platform@linkedin](https://www.linkedin.com/company/syns-platform/)
-  
-  - [syns_platform@instagram](https://www.instagram.com/syns_platform/)
-
-<!--
 ## Project artifacts:
   - [System designs and architecture](https://github.com/syns-platform/materials)
 
@@ -54,4 +49,10 @@ We greatly appreciate your insights and suggestions as we strive to further deve
   - [Golang Restful Microservices](https://github.com/syns-platform/servers)
   
   - [NextJs Client app](https://github.com/syns-platform/client)
--->
+
+## Follow us on socials
+  - [syns_platform@twitter](https://twitter.com/syns_platform)
+  
+  - [syns_platform@linkedin](https://www.linkedin.com/company/syns-platform/)
+  
+  - [syns_platform@instagram](https://www.instagram.com/syns_platform/)
