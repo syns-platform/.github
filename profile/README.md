@@ -42,7 +42,7 @@ We greatly appreciate your insights and suggestions as we strive to further deve
 -->
 
 ## Project artifacts:
-  - [System designs and architecture](https://github.com/syns-platform/materials)
+  <!-- - [System designs and architecture](https://github.com/syns-platform/materials) -->
   
   - [NextJs Client app](https://github.com/syns-platform/client)
 
