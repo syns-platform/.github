@@ -31,7 +31,6 @@ By leveraging blockchain technology, ***Syns Platform*** offers a level of secur
 
 Join Syns Platform today and leverage the power of blockchain technology to spark your own noble story!
 
-<!--
 
 ## Notice
 This project has now been made private to protect sensitive information and mitigate potential liability issues. However, we are still eager to receive your feedback on our progress!
@@ -39,8 +38,8 @@ This project has now been made private to protect sensitive information and miti
 You can access our beta version at https://syns-platform.com and provide your input through our dedicated feedback portal on the platform with ease.
 
 We greatly appreciate your insights and suggestions as we strive to further develop and refine this project. Thank you for your understanding and continued support!
--->
 
+<!--
 ## Project artifacts:
   <!-- - [System designs and architecture](https://github.com/syns-platform/materials) -->
   
@@ -49,6 +48,7 @@ We greatly appreciate your insights and suggestions as we strive to further deve
   - [Solidity Smart Contracts](https://github.com/syns-platform/contracts)
   
   - [Golang Restful Microservices](https://github.com/syns-platform/servers)
+-->
 
 ## Follow us on socials
   - [syns_platform@twitter](https://twitter.com/syns_platform)
