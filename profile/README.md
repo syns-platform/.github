@@ -39,6 +39,8 @@ You can access our beta version at https://syns-platform.com and provide your in
 
 We greatly appreciate your insights and suggestions as we strive to further develop and refine this project. Thank you for your understanding and continued support!
 
+If you're a recruiter who wants access to the code, please reach out to info@syns-platform.com and we'll provide you with an accessible GitFront link.
+
 <!--
 ## Project artifacts:
  
