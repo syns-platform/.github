@@ -22,6 +22,9 @@
 
 </div>
 
+## Elevator pitch
+Syns Platform is a dynamic fusion of a membership platform and an NFT marketplace, with a strong focus on the music industry.  Syns enables musicians to effortlessly transform their music into NFTs while providing fans with a fun playground to explore, purchase, and support their favorite artists through one-time or recurring donations.
+
 ## Overview
 `Spark Your Noble Story` (***Syns Platform***) - a cutting-edge full-stack web 3.0 platform that is revolutionizing the way musicians connect with their fans. Leveraging blockchain technology, SYNS combines a music-donation system, NFT marketplace, club membership, and social media features, offering musicians an unparalleled opportunity to showcase their artistry and connect with their fans worldwide.
 
