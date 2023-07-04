@@ -23,6 +23,7 @@
 </div>
 
 ## Elevator pitch
+<!-- Capstone project is a full-stack web 3.0, Syns Platform, which enables music artists turn their music products into NFTs with ease and offer a playground where fans can enjoy music NFTs and support artists by one-time donation or subscriptions to artist-created membership plans. -->
 Syns Platform is a dynamic fusion of a donation-based and subscription-based membership platform and an NFT marketplace, with a strong focus on the music industry.  Syns enables musicians to effortlessly transform their music into NFTs while providing fans with a fun playground to explore, purchase, and support their favorite artists through one-time or recurring donations.
 
 ## Overview
